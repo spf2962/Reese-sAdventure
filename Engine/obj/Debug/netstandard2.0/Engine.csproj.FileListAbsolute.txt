@@ -1,0 +1,9 @@
+C:\Users\sfarr\source\repos\Engine\bin\Debug\netstandard2.0\Engine.deps.json
+C:\Users\sfarr\source\repos\Engine\bin\Debug\netstandard2.0\Engine.dll
+C:\Users\sfarr\source\repos\Engine\bin\Debug\netstandard2.0\Engine.pdb
+C:\Users\sfarr\source\repos\Engine\obj\Debug\netstandard2.0\Engine.csprojAssemblyReference.cache
+C:\Users\sfarr\source\repos\Engine\obj\Debug\netstandard2.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\sfarr\source\repos\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfoInputs.cache
+C:\Users\sfarr\source\repos\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfo.cs
+C:\Users\sfarr\source\repos\Engine\obj\Debug\netstandard2.0\Engine.dll
+C:\Users\sfarr\source\repos\Engine\obj\Debug\netstandard2.0\Engine.pdb
